@@ -1,4 +1,4 @@
-import {sayHello} from '../js/main.js';
+import {greet, sayHello} from '../js/main.js';
 
 QUnit.module('hello', function() {
 
@@ -7,5 +7,9 @@ QUnit.module('hello', function() {
         assert.equal(result, 'hello');
     });
 
+    QUnit.test('make sure the greet function says hello to a person', function(assert) {
+        var result = greet('Anirud');
+        assert.equal(result, 'Hello Anirud');
+    });
 
 });

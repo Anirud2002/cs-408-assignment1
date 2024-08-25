@@ -16,3 +16,12 @@ function loaded() {
 export function sayHello() {
     return 'hello';
 }
+
+/**
+ * This function returns a greeting message to a person
+ * @param {string} name - name of the person to greet
+ * @returns greeting message
+ */
+export function greet(name) {
+    return `Hello ${name}`;
+}
