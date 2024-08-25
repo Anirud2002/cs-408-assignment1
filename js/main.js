@@ -7,6 +7,16 @@ function loaded() {
     // Assign to a variable so we can set a breakpoint in the debugger!
     const hello = sayHello();
     console.log(hello);
+
+    const alertBtnElement = document.querySelector(".alert-btn");
+    alertBtnElement.onclick = sayHelloUsingAlert;
+}
+
+/**
+ * Simple function that greets anyone who clicks on "Say Hello" button
+ */
+function sayHelloUsingAlert() {
+    alert("Namaste 🙏🏼");
 }
 
 /**
