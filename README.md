@@ -2,23 +2,35 @@
 
 ## Overview
 
-TODO: Write a project description
+Simple starter web dev code with additional about page which has fancy css rules
+
+## Instructions for code reviewers
+
+## Instructions for Code Reviewers
+
+Thank you for taking the time to review my code. Please follow the steps below to get the project running on your local machine:
+
+1. **Install Dependencies**
+
+   - Navigate to the root directory of the project.
+   - Run the following command to install all necessary dependencies:
+     ```bash
+     npm install
+     ```
+
+2. **Start the Live Server**
+
+   - Once the dependencies are installed, you can start a live server to view the project in your browser.
+   - If you're using Visual Studio Code, you can use the Live Server extension by right-clicking on `index.html` and selecting "Open with Live Server."
+
+3. **Navigate Through the Project**
+   - Once the live server is running, it should open the `index.html` page by default.
+   - On the index page, you'll see a button labeled "Take me to About Page!"
+   - Click this button to be redirected to the `about.html` page, where you can review additional features and styling.
+
+Please feel free to explore the code and provide any feedback or suggestions you might have!
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- GoogleFonts: https://fonts.google.com/
+- w3 Schools: https://www.w3schools.com/

@@ -1,0 +1,3 @@
+function sayHelloFromAboutPage() {
+    alert("Namaste 🙏🏼");
+}
