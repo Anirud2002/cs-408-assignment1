@@ -25,8 +25,6 @@ Thank you for taking the time to review my code. Please follow the steps below t
 
 3. **Navigate Through the Project**
    - Once the live server is running, it should open the `index.html` page by default.
-   - On the index page, you'll see a button labeled "Take me to About Page!"
-   - Click this button to be redirected to the `about.html` page, where you can review additional features and styling.
 
 Please feel free to explore the code and provide any feedback or suggestions you might have!
 
