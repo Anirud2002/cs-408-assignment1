@@ -6,8 +6,6 @@ Simple starter web dev code with additional about page which has fancy css rules
 
 ## Instructions for code reviewers
 
-## Instructions for Code Reviewers
-
 Thank you for taking the time to review my code. Please follow the steps below to get the project running on your local machine:
 
 1. **Install Dependencies**
